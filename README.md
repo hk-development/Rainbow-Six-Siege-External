@@ -1,6 +1,6 @@
 ###  Rainbow Six Siege External
 ```sh-session
-・NOT UPDATING ANYMORE!
+・SLN NOT INCLUDED TO PREVENT SKIDS :) | BUY IT FROM US OR MAKE YOURSELF.
 ```
 ***
 
