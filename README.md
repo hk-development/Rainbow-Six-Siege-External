@@ -1,6 +1,6 @@
 ###  Rainbow Six Siege External
 ```sh-session
-・NOT FULL SOURCE. SLN removed to prevent the source gettin skidded. You can make the sln yourself or buy it of us
+・NOT UPDATING ANYMORE!
 ```
 ***
 
@@ -28,7 +28,7 @@
 
  ✈ Telegram ・ https://t.me/hkcheats
  ***
-![chams](https://user-images.githubusercontent.com/107756040/194132649-f958f419-291a-4339-83ae-3c602972b69e.jpg)
+![unknown](https://user-images.githubusercontent.com/107756040/196529524-62e34d2a-4987-4a45-b50f-25013e19a80d.png)
 
 
 
